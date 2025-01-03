@@ -1,3 +1,3 @@
 # Numero
 
-OKay..
+OKay.
